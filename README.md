@@ -1,12 +1,15 @@
 ![photo_2026-02-04_12-43-23](https://github.com/user-attachments/assets/e3635e8d-f009-4f25-a2d3-45cb23079448)
-
+<div align="center">
+  
 ## Таблица Шульте
 <p>
   <img alt="GitHub License" src="https://img.shields.io/github/license/Zhidkov-Nikita/SchulteTable">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Zhidkov-Nikita/SchulteTable">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Zhidkov-Nikita/SchulteTable?color=green">
   <a href="https://github.com/Zhidkov-Nikita/SchulteTable/releases/download/SchulteTable/default.apk"><img alt="Static Badge" src="https://img.shields.io/badge/download-latest-blue?link=https%3A%2F%2Fgithub.com%2FZhidkov-Nikita%2FSchulteTable%2Freleases%2Fdownload%2FSchulteTable%2Fdefault.apk"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/platform-android-green?logo=android">
 </p>
+</div>
 Таблица Шульте — простая и полезная игра для тренировки внимания, скорости реакции и концентрации. Найдите числа по порядку от 1 до 25 как можно быстрее!
 
 ## Как играть
