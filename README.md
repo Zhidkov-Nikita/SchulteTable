@@ -5,7 +5,7 @@
 <p>
   <img alt="GitHub License" src="https://img.shields.io/github/license/Zhidkov-Nikita/SchulteTable">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Zhidkov-Nikita/SchulteTable">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Zhidkov-Nikita/SchulteTable?color=green">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Zhidkov-Nikita/SchulteTable?color=green&v=1">
   <a href="https://github.com/Zhidkov-Nikita/SchulteTable/releases/download/SchulteTable/default.apk"><img alt="Static Badge" src="https://img.shields.io/badge/download-latest-blue?link=https%3A%2F%2Fgithub.com%2FZhidkov-Nikita%2FSchulteTable%2Freleases%2Fdownload%2FSchulteTable%2Fdefault.apk"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/platform-android-green?logo=android">
 </p>
